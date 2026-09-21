@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Diş hekimliği eğitimi</title>
+  <desc id="desc">Mezuniyet kepi ve diploma simgesi</desc>
+  <g fill="none" stroke="#2FB5D2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 86 128 42l98 44-98 44Z"/>
+    <path d="M72 105v45c0 27 112 27 112 0v-45"/>
+    <path d="M226 86v66"/>
+    <circle cx="226" cy="166" r="8" fill="#2FB5D2" stroke="none"/>
+    <path d="M82 196h92M98 176h60" stroke="#11105A"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Oral cerrahi ve implantoloji</title>
+  <desc id="desc">Diş formu içinde dental implant simgesi</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M128 35c-31-18-72-5-83 30-13 41 17 67 24 104 6 31 13 52 28 52 18 0 16-49 31-49s13 49 31 49c15 0 22-21 28-52 7-37 37-63 24-104-11-35-52-48-83-30Z" stroke="#2FB5D2" stroke-width="10"/>
+    <path d="M105 83h46v27h-46zM112 110h32l-4 58-12 16-12-16Z" stroke="#11105A" stroke-width="9"/>
+    <path d="M112 126h30M111 142h30M113 158h27" stroke="#2FB5D2" stroke-width="6"/>
+  </g>
+</svg>

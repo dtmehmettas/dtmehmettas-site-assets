@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Kişiye özel tedavi planlaması</title>
+  <desc id="desc">Hasta profili ve onay işaretli tedavi planı simgesi</desc>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="54" y="40" width="148" height="180" rx="18" stroke="#2FB5D2" stroke-width="10"/>
+    <path d="M98 40v-8h60v8M104 32h48" stroke="#11105A" stroke-width="10"/>
+    <circle cx="105" cy="94" r="23" stroke="#2FB5D2" stroke-width="9"/>
+    <path d="M70 160c4-31 66-31 70 0" stroke="#2FB5D2" stroke-width="9"/>
+    <path d="m151 103 10 10 22-27M157 139h27M157 163h27" stroke="#11105A" stroke-width="9"/>
+  </g>
+</svg>
