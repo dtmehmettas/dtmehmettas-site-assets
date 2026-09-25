@@ -1,6 +1,12 @@
 -- dtmehmettas.com.tr — EN kurumsal (hakkımda + KVKK)
 SET NAMES utf8mb4;
 
+DELETE FROM about WHERE language = 'EN';
+
+DELETE pd FROM pages_description pd JOIN pages p ON p.id = pd.page_id
+WHERE pd.language = 'EN' AND p.link = 'kvkk-aydinlatma-metni';
+
+
 
 INSERT INTO about (image, title, description, seo_description, seo_title, language)
 SELECT image, 'Who Is MSc. Dt. Mehmet Taş?',
